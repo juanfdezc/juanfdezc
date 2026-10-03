@@ -1,16 +1,22 @@
-## Hi there 👋
+# Juan Fernández
 
-<!--
-**juanfdezc/juanfdezc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Data Science & Engineering student at Universidad Autónoma de Madrid.
 
-Here are some ideas to get you started:
+I build data systems and machine learning models, with a growing interest in financial applications.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Focus
+
+**Data Engineering** · Building reliable systems to collect, process and serve data  
+**Machine Learning** · Models, experimentation and data-driven decision making  
+**Finance & Risk** · Exploring quantitative methods and financial risk
+
+### Currently
+
+- Studying Data Science & Engineering at UAM
+- Learning cloud and data engineering
+- Building data and ML projects
+- Exploring financial risk and quantitative finance
+
+### Connect
+
+[LinkedIn](https://www.linkedin.com/in/juan-fern%C3%A1ndez-8680a7183/)
