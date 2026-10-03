@@ -1,22 +1,45 @@
 # Juan Fernández
 
-Data Science & Engineering student at Universidad Autónoma de Madrid.
+**Data Science & Engineering @ Universidad Autónoma de Madrid**
 
-I build data systems and machine learning models, with a growing interest in financial applications.
+Building data systems and machine learning models, with a growing focus on financial applications and risk.
 
-### Focus
+---
 
-**Data Engineering** · Building reliable systems to collect, process and serve data  
-**Machine Learning** · Models, experimentation and data-driven decision making  
-**Finance & Risk** · Exploring quantitative methods and financial risk
+## 01 / Engineering
 
-### Currently
+Reliable systems to collect, process and serve data.
 
-- Studying Data Science & Engineering at UAM
-- Learning cloud and data engineering
-- Building data and ML projects
-- Exploring financial risk and quantitative finance
+## 02 / Modelling
 
-### Connect
+Machine learning, statistics and data-driven decision making.
 
+## 03 / Finance
+
+Exploring quantitative methods, financial systems and risk.
+
+---
+
+## Stack
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white)
+
+---
+
+## Now
+
+- Building projects around **data engineering and machine learning**
+- Developing my knowledge of **cloud infrastructure**
+- Exploring **financial risk and quantitative finance**
+
+---
+
+## Selected Work
+
+> Projects coming soon.
+
+---
 [LinkedIn](https://www.linkedin.com/in/juan-fern%C3%A1ndez-8680a7183/)
